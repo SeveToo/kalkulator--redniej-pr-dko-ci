@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fizyka Kalkulatory</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="App">
+      <h1 class="App__header">Fizyka kalkulatory</h1>
+      <div class="App__avgSpeed">
+        <span class="avgSpeed__label">Średnia Prędkość</span>
+        <form class="input__wrapper">
+          <label class="input">
+            <input
+              class="input__field"
+              id="speed1"
+              type="text"
+              placeholder=" "
+              required
+            />
+            <span class="input__label">prędkość<sub> 1</sub></span>
+            <span class="input__unit">km/h</span>
+          </label>
+          <label class="input">
+            <input
+              class="input__field"
+              id="distance"
+              type="text"
+              placeholder=" "
+              required
+            />
+            <span class="input__label">droga<sub> 1</sub></span>
+            <span class="input__unit">L</span>
+          </label>
+          <label class="input">
+            <input
+              class="input__field"
+              id="speed2"
+              type="text"
+              placeholder=" "
+              required
+            />
+            <span class="input__label">prędkość<sub> 2</sub></span>
+            <span class="input__unit">km/h</span>
+          </label>
+          <input type="submit" class="avgSpeed__button" value="&#9888; Oblicz &#9888;"></input>
+        </form>
+        <div class="avgSpeed__result">
+          
+          <!-- <div class="result__fraction">
+            <div class="result__nominator">23</div>
+            <div class="result__denominator">12372</div>
+          </div>
+          <div class="result__solution">&nbsp;<span class="result__equal">=</span>&nbsp;12.238
+            <span class="result__unit">km/h</span>
+          </div>
+        </div> -->
+      </div>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
