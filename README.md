@@ -2,24 +2,24 @@
   
 <h1 align="center"> 
 Average speed</h1>
-  <a target="_blank" href="https://sevetoo.github.io/kalkulatorsredniejpredkosci/">
+  <a target="_blank" href="https://sevetoo.github.io/kalkulator--redniej-pr-dko-ci/">
   <img src="./preview.png" alt="arrays functions" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/kalkulatorsredniejpredkosci/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/kalkulator--redniej-pr-dko-ci/">Demo</a>
 
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/kalkulatorsredniejpredkosci?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/kalkulator--redniej-pr-dko-ci?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/kalkulatorsredniejpredkosci?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/kalkulator--redniej-pr-dko-ci?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/kalkulatorsredniejpredkosci?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/kalkulator--redniej-pr-dko-ci?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/SeveToo/kalkulatorsredniejpredkosci?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/SeveToo/kalkulator--redniej-pr-dko-ci?color=56BEB8">
 </p>
 
 <p align="center">
@@ -52,12 +52,12 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/kalkulatorsredniejpredkosci/
+https://sevetoo.github.io/kalkulator--redniej-pr-dko-ci/
 
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/kalkulatorsredniejpredkosci/" >click link</a> ) 
+or open in browser ( <a href="https://sevetoo.github.io/kalkulator--redniej-pr-dko-ci/" >click link</a> )
 
 ## 😎 Made by
 
