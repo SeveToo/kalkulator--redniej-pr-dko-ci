@@ -52,7 +52,7 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/kalkulator--redniej-pr-dko-ci/
+https://sevetoo.github.io/kalkulator-sredniej-predkosci/
 
 ## :checkered_flag: Starting
 
