@@ -197,3 +197,30 @@ body {
   margin-left: 7px;
   position: relative;
 }
+
+.links {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 2rem 0;
+  padding: .5rem 0;
+  font-size: .7rem;
+  border-left: 3px solid var(--second-color);
+  border-radius: 4px;
+  box-shadow: 0 0 20px 0 rgba(9, 9, 9, 0.226);
+}
+
+.links__list{
+  list-style-type: none;
+}
+.links__link{
+  display: block;
+  padding: .5rem 1.6rem;
+  text-decoration: none;
+  color:var(--text-color);
+  opacity: .7;
+}
+
+.links__link:hover{
+  opacity: 1;
+}
