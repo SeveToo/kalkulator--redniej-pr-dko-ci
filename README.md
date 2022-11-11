@@ -2,24 +2,24 @@
   
 <h1 align="center"> 
 Average speed</h1>
-  <a target="_blank" href="https://sevetoo.github.io/kalkulator--redniej-pr-dko-ci/">
+  <a target="_blank" href="https://sevetoo.github.io/kalkulator-sredniej-predkosci/">
   <img src="./preview.png" alt="arrays functions" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/kalkulator--redniej-pr-dko-ci/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/kalkulator-sredniej-predkosci/">Demo</a>
 
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/kalkulator--redniej-pr-dko-ci?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/kalkulator-sredniej-predkosci?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/kalkulator--redniej-pr-dko-ci?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/kalkulator-sredniej-predkosci?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/kalkulator--redniej-pr-dko-ci?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/kalkulator-sredniej-predkosci?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/SeveToo/kalkulator--redniej-pr-dko-ci?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/SeveToo/kalkulator-sredniej-predkosci?color=56BEB8">
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ https://sevetoo.github.io/kalkulator--redniej-pr-dko-ci/
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/kalkulator--redniej-pr-dko-ci/" >click link</a> )
+or open in browser ( <a href="https://sevetoo.github.io/kalkulator-sredniej-predkosci/" >click link</a> )
 
 ## 😎 Made by
 
